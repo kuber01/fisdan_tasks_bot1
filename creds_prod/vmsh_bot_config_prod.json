@@ -1,0 +1,11 @@
+{
+  "config_name": "production",
+  "telegram_bot_token": "6961727480:AAGUULACFmDRRBQLU5CSnNJKBnIuVknbt-Y",
+ "google_sheets_key": "1qKIe_N0ZxvbadH5SiHGzagMMdcdkmPqKPL8RaBTwq7E",
+  "webhook_host": "bot.domain.ru",
+  "webhook_port": 443,
+  "db_filename": "db/production.db",
+  "sos_channel": "@fisdansos",
+  "exceptions_channel": -1002113691026,
+  "sentry_dsn": ""
+}

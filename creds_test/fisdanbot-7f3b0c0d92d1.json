@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fisdanbot",
+  "private_key_id": "7f3b0c0d92d19b573eacd4d8e462edbcb77926fa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9cPea+1CwgXWg\nnw0Oh980c7+MqZPALBFuJ6qUjtTOqShlRr+jhhOEpFOn8mmis2w37xglO6CeZwY7\n6+MTbPLAMBxjB4IV4b31Ku8byuq0kt87/tWl7sxE1Q0uYcO85npdNJTNgz9i4k+Z\nKQJLMWhXetW4D+yqXhCEIAIMo7qJowSMtlXvBGHcg3bTidCx59Fjw0ezRbh4itV+\nE/nA4Yw0RRlqd8jP70a6LvD9AkTYI9X/UTN0L3LdEztwiu7S9VSxWk8ewyb5ug4D\nR0JLIVKTYRQqaKDbinbZF6FNvd3pXqamI9y2OZpk9r/4P4HnE/2bzvm/V3+ng7RB\nGlq0U0eVAgMBAAECggEAByOsZsljkKQiw8Qiu/vn/OQ2bi2cE7eFcgspwFIDfp6J\nsKSb+pfS55WOBCV19v7MjG1LRQHyuAcf1fiTyCrIf9cAU6uxhE1LrHAeO6p0y6Vz\n8/qfxuv30LARZsCIxCp3QGJ69iWYKRjO0T6ZdC4Y2NOLna8J9AZTmIS6FwuN/BUm\nVeSAS0/Zb0RxL03reTEbqgcDRMt+z9Eov7X9AerZ5KSAB1Z6nDVMmxRK+Y528Pgp\nzD85mXh6bDrWJxpRZh9PyS6bPLXRz/QF7aT57zIAM7c4ADcxG59WdcwQGUdxqJjj\nieRbtL3e4vtRTcAF+qaSNpVtenZEW+d0mhp0z5/b+QKBgQDhSCGeCLX3ZsULDjYr\n4q31JVjsjhXIkgurY9XnJBWRivvnZ54gdw0ugdbRV6SRl+aLAlS217H94/W13kdp\nkIEj++6WfFkjORVxH6GuSAV6ERazntDgCx8JZ0JFHaL6tbD2polYjILCA9XKo/hI\nCVldmd6wSXUDrbCeIJATBxEbjQKBgQDXRcI81akpbEnF5RWp0y6jvD5oqRHwqoXN\nNZOJEX2CgsUwjlzDxOasq3062qn4psZU/px4jxx07PYdpyb69y6f7QEATS/r8ml+\nJ7qUcfrEH9zBUdr1GVKEXP4Bw7QSue/FYijWmy6tYUSq0Y1Q+5cuMwiM2C0uw8j9\ng7Yt8UbWKQKBgH8OUXdx7j7kRUlg8Ih7xiS2tZpk4EBIrjAxlFhSb5+wRTZTqEkj\nG9oY/HEA/x3mD+5imCivKgHJabDy9k/BYjRLSFqzMwq8jS1J68QBdqVLsgQIFEHn\nw89n32ZfuqWvh2j0sA2y4aROyWsKY2MtcqtptsCyDT7P3Qax0tAIckuZAoGBAMBg\nt9dzvUumWTs/oR91+T0bsc4IIV8olJAxq9oXRkmGob/lyWKuKNLwIeahmLn8GEvG\niYB3rB+Vz8/qG7y1fvYub/GcCRJbPQkfae7U+Ruhub8NbpYQfhyJmflrshX2Eh8b\nvJEkdw88WIgq4pYXcCA6PQ7Y9W/QSWK8/OaLsxkZAoGBAIQ6+pljybcEU+tcS1RR\nIsCUW7kBEvLmJ7/s3GTKf/z7or8QPE89Wpt4Zrn2bcERmVRQC02AAeXwXdqfAO0S\nzJ7iT18Kup0g8e5x/iqPR2UgCt7c8OcfbheV9kt7WKin8nZR3kFulxNOCk0OTWNz\nYJosIm9fzk1AH0iYXM8V0WpY\n-----END PRIVATE KEY-----\n",
+  "client_email": "fisdanbotserviceaccount@fisdanbot.iam.gserviceaccount.com",
+  "client_id": "108877797602206606292",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fisdanbotserviceaccount%40fisdanbot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
